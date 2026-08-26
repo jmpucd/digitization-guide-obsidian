@@ -11,9 +11,13 @@ Assigned 2026-08-26. Students shoot the images below and drop them, titled, in t
 Fills the `📷 Placeholder` callouts in [[Equipment & Lighting]], [[DT Versa]], [[DT V-Cradle]], [[Handling Archival Materials]], [[Color Management & Calibration]]:
 
 - `equipment-versa-station` — Versa station: camera column, glass platen, both lights
-- `equipment-v-cradle-volume` — V-Cradle with a bound volume open in it
+- `equipment-v-cradle-versa` — V-Cradle **set up on the Versa**: cover on the Versa, camera at the correct angle/height for **600 ppi**
+- `equipment-v-cradle-volume` — closer shot: the V-Cradle with a bound volume open in it
+- `equipment-film-light-table` — film scanning light table + cover set up on the Versa *(optional — students may skip if they don't remember the setup)*
 - `handling-gloves-cradle` — gloved handling + book cradle/wedge in use
 - `color-monitor-calibration` — calibration device on screen + monitor hood (if available)
+
+Delivery: students AirDrop phone photos to the work Mac and collect everything (photos + screenshots) in **`Pictures → Guide Photos`** on the work Mac.
 
 ## Part 2 — Preflight run-through (fresh screenshots)
 

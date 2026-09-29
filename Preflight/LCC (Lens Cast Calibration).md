@@ -11,7 +11,7 @@ Part of [[General Preflight]] (step 5). The LCC corrects **lens cast** and creat
 ## Capture the LCC reference
 
 1. Place a plain **white foamcore board** on the imaging surface — flat, flush, covering the **entire** field of view. Nothing else should be visible in frame.
-2. Capture it using the **same aperture and lighting** you'll use for the object. The image should look **uniformly gray**, around **L\* 60–70** (our lab notes target ~50–60; aim for an even mid-gray). Adjust **shutter speed** to land in range.
+2. Capture it using the **same aperture and lighting** you'll use for the object. The image should look **uniformly gray**, between **L\* 60–70** (aim for an even mid-gray). Adjust **shutter speed** to land in range.
 
 > [!note] 📷 Placeholder — the LCC capture: an even gray frame edge-to-edge
 > Replace with a current lab capture. (Migrated reference shot of the create-LCC step is below.)

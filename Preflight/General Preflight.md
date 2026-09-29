@@ -39,7 +39,7 @@ In **Base Characteristics**: Mode **Photography**, the **Cultural Heritage** ICC
 
 ## 5. Create the LCC → [[LCC (Lens Cast Calibration)]]
 
-Capture a white board filling the frame, confirm it reads ~L\* 50–70, name it (e.g. `400PPI_8_19`), and **Create LCC** for even lighting and lens-cast correction.
+Capture a white board filling the frame, confirm it reads L\* 60–70, name it (e.g. `400PPI_8_19`), and **Create LCC** for even lighting and lens-cast correction.
 
 ## 6. Set White Balance → [[White Balance]]
 

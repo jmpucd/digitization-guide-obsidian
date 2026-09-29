@@ -1,10 +1,10 @@
-####  Simplify Workflow
+#### Simplified Workflow
 1. Turn the camera and lights on
 2. Create session and finish naming
 	- Session should be located at **Capture Session**
-	- Naming: the full title of the material connected with underline
+	- Naming: the full title of the material connected with underscores
 3. Preflight
-	- Camara focus
+	- Camera focus
 	- measure PPI
 	- File naming: destination folder name + 4-digit counter
 	- LCC setting
@@ -14,7 +14,7 @@
 
 #### File Management
 1. Naming convention
-	- Full name of the material connected with underline
+	- Full name of the material connected with underscores
 	- Abbreviate the name when too long; only the essential part
 2. Session location (folder location)
 	- Capture ongoing: Capture Session
@@ -26,16 +26,16 @@
 ##### Machine
 1. When the copy stand doesn't move up/down
 	- Report to supervisor and ask to recalibrate the copy stand
-	- **Reason:** the copy stand was accidentally unplugged from the power 
+	- **Reason:** the copy stand was accidentally unplugged from power
 2. When the scanner jams the material
 	- Stop the scanner by pressing the button on the machine
 	- Carefully remove the material according to the machine instructions and inspect it for damage
-	- ask a supervisor before attempting to scan it again.
+	- Ask a supervisor before attempting to scan it again.
 	- **Reason**: the material is not positioned the right way, or the material itself doesn't comply with the scanner (too fragile or too thick)
 ##### Software
-1. When CaptureOne suddenly quit/error occurs
-	- Wait till CaptureOne finishes the process and click Ok
-	- **Reason:** CaptureOne common bug
+1. When Capture One suddenly quits or shows an error
+	- Wait until Capture One finishes the process, then click OK
+	- **Reason:** common Capture One bug
 
 
 #### Quality Control
@@ -48,7 +48,7 @@
 	- Correct orientation
 	- Accurate filenames
 	- Correct resolution and file format
-- *Tagged the file as red when violated*
+- *Tag the file red if it fails any check*
 
 
 
